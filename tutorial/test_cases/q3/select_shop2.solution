@@ -1,0 +1,3 @@
+# This is the solution file for ../projects/tutorial/test_cases/q2/select_shop2.test.
+# The result of evaluating the test must equal the below when cast to a string.
+result: "<FruitShop: shop2>"
